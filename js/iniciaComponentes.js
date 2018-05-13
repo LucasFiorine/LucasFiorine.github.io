@@ -13,7 +13,7 @@ $(document).ready(function () { $('.collapsible').collapsible(); });
 // });
 
 
-    
+
 
     $(document).ready(function(){
         $('.div1')
@@ -31,8 +31,8 @@ $(document).ready(function () { $('.collapsible').collapsible(); });
         .hide()
         .slideDown(2000)
         .fadeIn("slow");
-        
+
 
     });
 
-
+$(".dropdown-trigger").dropdown();

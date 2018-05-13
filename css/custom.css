@@ -73,3 +73,12 @@ html {
   #i1{
 	  height: 20px;
   }
+
+	.imgemNav {
+
+	}
+
+	.nav {
+		background-color: blue;
+		height: 170px;
+	}
