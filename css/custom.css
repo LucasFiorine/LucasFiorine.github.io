@@ -76,6 +76,7 @@ html {
 
 	.imgNav {
 		height: 170px;
+		padding-right: 0px;
 	}
 
 .media {
@@ -98,7 +99,6 @@ html {
 .experiências{
 	height: 110px;
 	background-color: white;
-
 }
 .areasdeConhecimento{
 	height: 110px;
@@ -113,11 +113,15 @@ html {
 .contato{
 	height: 110px;
 	background-color: green;
-	
+
 }
 
 .test{
 	align-items: center;
+}
+
+.container{
+	width: 100%;
 }
 
 	/* .nav {
