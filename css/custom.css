@@ -74,11 +74,23 @@ html {
 	  height: 20px;
   }
 
-	.imgemNav {
-
-	}
-
-	.nav {
-		background-color: blue;
+	.imgNav {
 		height: 170px;
 	}
+
+.media {
+	background-color: black;
+	margin-top: 0px;
+	height: 60px
+}
+
+.media-heading{
+	margin-left: 300px;
+	font-size: 1.875em;
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+	color: white;
+}
+	/* .nav {
+		background-color: blue;
+		height: 170px;
+	} */
