@@ -90,6 +90,36 @@ html {
 	font-family: Arial, Helvetica, sans-serif;
 	color: white;
 }
+
+.perfil{
+	height: 110px;
+	background-color: blue;
+}
+.experiências{
+	height: 110px;
+	background-color: white;
+
+}
+.areasdeConhecimento{
+	height: 110px;
+	background-color: #2CEAA3;
+}
+
+.curiosidades{
+	height: 110px;
+	background-color: #34F6F2;
+}
+
+.contato{
+	height: 110px;
+	background-color: green;
+	
+}
+
+.test{
+	align-items: center;
+}
+
 	/* .nav {
 		background-color: blue;
 		height: 170px;
